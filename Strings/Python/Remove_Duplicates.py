@@ -6,3 +6,4 @@ class Solution:
             if i not in string:
                 string += i
         return string
+
