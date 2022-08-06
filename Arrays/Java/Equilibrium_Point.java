@@ -1,7 +1,7 @@
 class Solution {
     // a: input array
     // n: size of array
-    // Function to find equilibrium point in the array.
+    // Function to find equilibrium point in the array
     public static int equilibriumPoint(long arr[], int n) {
         // Your code here
         int sum1 = 0;
