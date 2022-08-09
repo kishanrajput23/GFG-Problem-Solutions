@@ -1,5 +1,4 @@
 class Solution:
-
 	def valueEqualToIndex(self,arr, n):
 		# code here
 		ls = []
