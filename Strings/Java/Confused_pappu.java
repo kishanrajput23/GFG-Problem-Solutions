@@ -1,5 +1,4 @@
-class Solution 
-{ 
+class Solution { 
     long findDiff(long amount) 
     {
         // code here
