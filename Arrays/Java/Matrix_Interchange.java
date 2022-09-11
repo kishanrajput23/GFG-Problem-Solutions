@@ -2,8 +2,6 @@ class Geeks{
     
     static void interchange(int a[][],int r, int c){
         
-        // Your code here
-        
         for (int i=0; i<r; i++) {
             for (int j=0; j<c; j++) {
                 if (j==0 && r>1 && c>1) {
