@@ -1,5 +1,4 @@
-class GfG
-{		
+class GfG {		
 	public boolean searchEle(int a[],int x)
        {
 		//add code here.
