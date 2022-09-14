@@ -1,5 +1,4 @@
 class Solution {
-
     public void scores(long a[], long b[]) {
         // store the answer as
         // GFG.ca=3;
