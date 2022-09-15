@@ -1,5 +1,4 @@
 class Compute {
-    
     public long countOfElements(long arr[], long n, long x)
     {
         int cnt = 0;
