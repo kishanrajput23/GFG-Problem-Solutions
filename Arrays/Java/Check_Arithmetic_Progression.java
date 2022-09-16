@@ -1,5 +1,4 @@
-class Solution
-{
+class Solution {
     boolean checkIsAP(int arr[] ,int n)
     {
         // code here
