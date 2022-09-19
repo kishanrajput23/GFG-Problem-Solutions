@@ -1,5 +1,4 @@
-class Solution
-{
+class Solution {
     public int klengthpref(String[] arr, int n, int k, String str) {
         str=str.substring(0,k);
         int count=0;
