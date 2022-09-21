@@ -3,7 +3,7 @@ class GfG {
         int count = 0;
         for (int i=0; i<n; i++) {
             int num = a[i];
-            while (num > 0) {
+            while (num>0) {
                 if (num % 10 == k) {
                     count += 1;
                 }
