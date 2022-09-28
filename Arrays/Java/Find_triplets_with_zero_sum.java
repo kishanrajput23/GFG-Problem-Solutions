@@ -1,5 +1,4 @@
-class Solution
-{
+class Solution {
     // arr[]: input array
     // n: size of the array
     //Function to find triplets with zero sum.
