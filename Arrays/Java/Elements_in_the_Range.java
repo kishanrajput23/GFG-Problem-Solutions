@@ -1,5 +1,4 @@
-class Solution
-{
+class Solution {
     boolean check_elements(int arr[], int n, int A, int B) {
         HashSet<Integer> set = new HashSet<>();
         for (int i=0; i<n; i++) {
