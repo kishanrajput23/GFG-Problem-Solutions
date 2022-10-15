@@ -1,5 +1,4 @@
-class Sol
-{
+class Sol {
     int[] count (String s)
     {
         // your code here   
