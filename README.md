@@ -67,34 +67,6 @@ Each problem directory contains:
 
 ---
 
-## 📚 Topics Covered
-
-| Topic | Description |
-|--------|-------------|
-| Arrays | Searching, sorting, prefix sums, traversal |
-| Strings | Pattern matching, parsing, manipulation |
-| Linked List | Singly, doubly & circular linked lists |
-| Stack | Monotonic stack, expression evaluation |
-| Queue | BFS, deque, circular queue |
-| Hashing | HashMap, frequency counting |
-| Binary Search | Search space optimization |
-| Sliding Window | Fixed & variable window techniques |
-| Two Pointers | Fast & slow pointer problems |
-| Tree | Binary trees & traversals |
-| BST | Binary Search Tree operations |
-| Heap | Priority queues & Top-K problems |
-| Graph | BFS, DFS, shortest path, MST |
-| Greedy | Locally optimal algorithms |
-| Dynamic Programming | Memoization & tabulation |
-| Backtracking | Recursive search & permutations |
-| Recursion | Divide & conquer techniques |
-| Trie | Prefix tree problems |
-| Matrix | 2D traversal & simulation |
-| Bit Manipulation | XOR, masking & bit tricks |
-| Math | Number theory & mathematics |
-
----
-
 ## ⚙️ Automation Workflow
 
 ```
