@@ -1,10 +1,188 @@
-![GFG-Problem-Solutions](https://socialify.git.ci/kishanrajput23/GFG-Problem-Solutions/image?description=1&font=Bitter&language=1&owner=1&theme=Dark)
+<h1 align="center">🚀 GeeksforGeeks Problem Solutions</h1>
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
+<p align="center">
+  A curated collection of my accepted <strong>GeeksforGeeks</strong> solutions, automatically synced to GitHub using my custom-built Chrome extension <strong>CodeHub Sync</strong>.
+</p>
 
-## Uncategorized
-|  |
-| ------- |
-| [0000-while-loop](https://github.com/kishanrajput23/GFG-Problem-Solutions/tree/main/0000-while-loop) |
-<!---LeetCode Topics End-->
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/kishanrajput23">
+    <img src="https://img.shields.io/badge/Platform-GeeksforGeeks-2F8D46?style=for-the-badge" alt="GFG" />
+  </a>
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Language" />
+  <img src="https://img.shields.io/badge/Automation-CodeHub%20Sync-success?style=for-the-badge" alt="Automation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/kishanrajput23/GFG-Problem-Solutions?style=flat-square" alt="Repo Size" />
+  <img src="https://img.shields.io/github/last-commit/kishanrajput23/GFG-Problem-Solutions?style=flat-square" alt="Last Commit" />
+  <img src="https://img.shields.io/github/stars/kishanrajput23/GFG-Problem-Solutions?style=flat-square" alt="Stars" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kishanrajput23.GFG-Problem-Solutions" alt="Visitors" />
+</p>
+
+---
+
+## 📖 About
+
+This repository contains my accepted solutions to **GeeksforGeeks** coding problems.
+
+Every solution is **automatically committed** using my Chrome extension **CodeHub Sync**, making this repository a continuously updated archive of my Data Structures & Algorithms practice.
+
+---
+
+## 📂 Repository Structure
+
+Problems are organized based on their **primary Data Structures & Algorithms topic**.
+
+```
+Array/
+│
+├── Kadane's Algorithm/
+│   ├── README.md
+│   └── solution.cpp
+│
+String/
+│
+├── Reverse Words/
+│   ├── README.md
+│   └── solution.cpp
+│
+Dynamic Programming/
+│
+├── Longest Increasing Subsequence/
+│   ├── README.md
+│   └── solution.cpp
+│
+Graph/
+│
+└── Dijkstra Algorithm/
+    ├── README.md
+    └── solution.cpp
+```
+
+Each problem directory contains:
+
+- 📄 Problem description
+- 💻 Accepted solution
+- 🏷️ Problem metadata
+
+---
+
+## 📚 Topics Covered
+
+| Topic | Description |
+|--------|-------------|
+| Arrays | Searching, sorting, prefix sums, traversal |
+| Strings | Pattern matching, parsing, manipulation |
+| Linked List | Singly, doubly & circular linked lists |
+| Stack | Monotonic stack, expression evaluation |
+| Queue | BFS, deque, circular queue |
+| Hashing | HashMap, frequency counting |
+| Binary Search | Search space optimization |
+| Sliding Window | Fixed & variable window techniques |
+| Two Pointers | Fast & slow pointer problems |
+| Tree | Binary trees & traversals |
+| BST | Binary Search Tree operations |
+| Heap | Priority queues & Top-K problems |
+| Graph | BFS, DFS, shortest path, MST |
+| Greedy | Locally optimal algorithms |
+| Dynamic Programming | Memoization & tabulation |
+| Backtracking | Recursive search & permutations |
+| Recursion | Divide & conquer techniques |
+| Trie | Prefix tree problems |
+| Matrix | 2D traversal & simulation |
+| Bit Manipulation | XOR, masking & bit tricks |
+| Math | Number theory & mathematics |
+
+---
+
+## ⚙️ Automation Workflow
+
+```
+Solve Problem on GeeksforGeeks
+            │
+            ▼
+Accepted Submission
+            │
+            ▼
+CodeHub Sync Chrome Extension
+            │
+            ▼
+Extracts:
+• Problem Title
+• Description
+• Difficulty
+• Tags
+• Accepted Code
+            │
+            ▼
+Creates Folder Structure
+            │
+            ▼
+Commits & Pushes to GitHub
+```
+
+No manual uploads required.
+
+---
+
+## 🛠️ Tech Stack
+
+- JavaScript
+- Chrome Extension APIs
+- GitHub REST API
+- GeeksforGeeks
+- Git
+
+---
+
+## ✨ Features
+
+- ✅ Automatic GitHub synchronization
+- ✅ Organized topic-wise repository
+- ✅ Problem description included
+- ✅ Accepted solutions only
+- ✅ Clean folder hierarchy
+- ✅ Continuous updates
+
+---
+
+## 🔗 Related Project
+
+This repository is powered by my Chrome extension:
+
+### **CodeHub Sync**
+
+Automatically syncs accepted coding solutions from platforms like GeeksforGeeks directly to GitHub.
+
+👉 **Repository:** https://github.com/kishanrajput23/codehub-sync
+
+---
+
+## 🎯 Purpose
+
+This repository helps me:
+
+- Track my DSA journey
+- Maintain consistency
+- Build a searchable solution archive
+- Prepare for coding interviews
+- Showcase problem-solving skills
+
+---
+
+## 🙋‍♂️ Author
+
+**Kishan Kumar Rai**
+
+- GitHub: https://github.com/kishanrajput23
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/kishanrajput23
+
+---
+
+<div align="center">
+
+⭐ If you found this repository useful, consider giving it a star!
+
+Made with ❤️ using **CodeHub Sync**
+
+</div>
