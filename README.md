@@ -19,6 +19,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kishanrajput23.GFG-Problem-Solutions" alt="Visitors" />
 </p>
 
+<img width="1536" height="1024" alt="GeeksForGeeks" src="https://github.com/user-attachments/assets/9d8646a2-8a0b-49ad-84ce-5e587a313350" />
+
 ---
 
 ## 📖 About
@@ -126,7 +128,7 @@ This repository is powered by my Chrome extension:
 
 Automatically syncs accepted coding solutions from platforms like GeeksforGeeks directly to GitHub.
 
-👉 **Repository:** https://github.com/kishanrajput23/codehub-sync
+👉 **Repository:** https://github.com/kishanrajput23/CodeHub-Sync
 
 ---
 
