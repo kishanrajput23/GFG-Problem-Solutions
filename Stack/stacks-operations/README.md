@@ -1,0 +1,27 @@
+## [Stack Operations](https://www.geeksforgeeks.org/problems/stacks-operations/1)
+
+**Difficulty:** Basic  
+**Topics:** Stack  
+
+**Problem Description:**
+
+<p><span style="font-size: 14pt;">Implement a class&nbsp;<strong>myStack</strong>&nbsp;that supports following operations:</span></p>
+<p><span style="font-size: 14pt;"><strong>void push(int x):</strong>&nbsp;Insert an element x at the top of the stack.</span><br><span style="font-size: 14pt;"><strong>void pop():</strong>&nbsp;Remove the element from the top of the stack.</span><br><span style="font-size: 14pt;"><strong>int peek():&nbsp;</strong>Return the element currently at the top of the stack.</span><br><span style="font-size: 14pt;"><strong>bool isEmpty():</strong>&nbsp;Return true if the stack is empty, otherwise false.</span><br><span style="font-size: 14pt;"><strong>int getSize():&nbsp;</strong>Return the number of elements currently in the stack.</span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 1em; line-height: 1.4285em; font-family: Nunito; color: #1e2229; font-size: 15px !important; background-color: #ffffff !important;" data-start="667" data-end="766"><span style="box-sizing: border-box; font-size: 14pt;">There will be a sequence of&nbsp;<strong>q</strong> queries <span style="box-sizing: border-box; font-weight: bolder; font-family: 'Source Sans 3' !important;">arr[]</span>. The queries are represented in numeric form:</span></p>
+<ul style="box-sizing: border-box; font-family: Nunito; color: #1e2229; font-size: 15px !important; background-color: #ffffff !important;">
+<li style="box-sizing: border-box; margin: 0px; line-height: 1.5 !important;"><span style="box-sizing: border-box; font-size: 14pt;">1 x - Call push(x)</span></li>
+<li style="box-sizing: border-box; margin: 0px; line-height: 1.5 !important;"><span style="box-sizing: border-box; font-size: 14pt;">2 - Call pop()</span></li>
+<li style="box-sizing: border-box; margin: 0px; line-height: 1.5 !important;"><span style="box-sizing: border-box; font-size: 14pt;">3 - Call peek()</span></li>
+<li style="box-sizing: border-box; margin: 0px; line-height: 1.5 !important;"><span style="box-sizing: border-box; font-size: 14pt;">4 - Call isEmpty()</span></li>
+<li style="box-sizing: border-box; margin: 0px; line-height: 1.5 !important;"><span style="box-sizing: border-box; font-size: 14pt;">5 - Call getSize()</span></li>
+</ul>
+<p style="box-sizing: border-box; margin: 0px 0px 1em; line-height: 1.4285em; font-family: Nunito; color: #1e2229; font-size: 15px !important; background-color: #ffffff !important;" data-start="886" data-end="1076"><span style="box-sizing: border-box; font-size: 14pt;">The driver code will process the queries, call the corresponding functions, and print the outputs of peek(), isEmpty(), getSize() operations.<br style="box-sizing: border-box;">You only need to implement the above five functions.</span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 1em; line-height: 1.4285em; font-family: Nunito; color: #1e2229; font-size: 15px !important; background-color: #ffffff !important;" data-start="886" data-end="1076"><span style="font-size: 14pt;"><strong><span style="box-sizing: border-box;">Examples:</span></strong></span></p>
+<pre><span style="font-size: 14pt;"><strong><span style="box-sizing: border-box;">Input:</span></strong><span style="box-sizing: border-box;"> arr[] = [[1 10], [1 30], [3], [5], [2], [4]]<br></span><strong><span style="box-sizing: border-box;">Output:</span></strong><span style="box-sizing: border-box;"> [30, 2, false]<br><strong>Explanation: </strong></span>Queries will process as follows:</span><br><span style="font-size: 14pt;">push(10) into the stack.</span><br><span style="font-size: 14pt;">push(30) into the stack.</span><br><span style="font-size: 14pt;">Return top of the stack, i.e. 30.</span><br><span style="font-size: 14pt;">Return current size of the stack, i.e. 2.</span><br><span style="font-size: 14pt;">Remove the element from the top of the stack</span><br><span style="font-size: 14pt;">Stack is non-empty, i.e. return false.</span></pre>
+<pre><span style="font-size: 14pt;"><strong><span style="box-sizing: border-box;">Input:</span></strong><span style="box-sizing: border-box;"> arr[] = [[1 5], [3], [2], [4]]<br><strong>Output: </strong>[5, true]<br><strong>Explanation: </strong>Queries will process as follows: <br></span><span style="box-sizing: border-box;">push(5) into the stack.<br>Return top of the stack, i.e. 5.<br></span><span style="box-sizing: border-box;">Remove the element from the top of the stack.<br></span><span style="box-sizing: border-box;">Stack is Empty, i.e. return true.<br></span></span></pre>
+<p><strong><span style="font-size: 14pt;"><span style="box-sizing: border-box;">Constraints:<br></span></span></strong><span style="font-size: 14pt;"><span style="box-sizing: border-box;">1&nbsp;</span></span><span style="background-color: #ffffff; color: #001d35; font-family: 'Google Sans', Arial, sans-serif; font-size: 16px;">≤ q&nbsp;</span><span style="background-color: #ffffff; color: #001d35; font-family: 'Google Sans', Arial, sans-serif; font-size: 16px;">≤ 100<br>1&nbsp;</span><span style="background-color: #ffffff; color: #001d35; font-family: 'Google Sans', Arial, sans-serif; font-size: 16px;">≤ x&nbsp;</span><span style="background-color: #ffffff; color: #001d35; font-family: 'Google Sans', Arial, sans-serif; font-size: 16px;">≤ 100</span></p>
+
+**Expected Complexities:**
+
+Time Complexity: O(1)  
+Auxiliary Space: O(1)
